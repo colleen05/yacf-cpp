@@ -1,2 +1,2 @@
-# yacf-lib
-C library for reading and writing to YACF config files. (Yet Another Config Format)
+# YACF C Library (Yet Another Config Format)
+The YACF C library provides the user with functions for reading and writing to YACF files, as well as functions and structs for managing YACF data.
